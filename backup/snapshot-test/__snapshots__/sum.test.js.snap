@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing - sum 1`] = `9`;
+
+exports[`snapshot testing - sum 2`] = `8`;
+
+exports[`snapshot testing - sum 3`] = `4`;
+
+exports[`snapshot testing - sum 4`] = `15`;
+
+exports[`snapshot testing - sum 5`] = `9`;

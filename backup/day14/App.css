@@ -1,0 +1,44 @@
+  .app{ 
+  background-color:rgb(135, 235, 160);
+  padding: 20px;
+  /* font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin: 10px;
+  margin-top: 50px; */
+  /* display: flex; */
+  /* border-bottom-left-radius: 30px; */
+  
+  /* margin-left: 100px;
+  margin-right: 100px; /* */
+  text-align: center;
+} 
+.active{
+  color:darkred;
+}
+/* ul{
+  display: flex;
+} */
+/* li{
+   background-color:pink;  
+   color:wheat;
+   border: 2px solid black;
+
+   
+}
+li:hover {
+  background-color:bisque;
+}
+ 
+/* .btn{
+  background-color: white; 
+  color: black;  */
+  /* border: 2px solid black; */
+/* }
+.btn:hover
+{
+  background-color: white;
+  color: gray;
+} */ 
+.Link{
+  text-decoration: none;
+}  

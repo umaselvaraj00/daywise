@@ -1,0 +1,17 @@
+.todo{
+    background-color: antiquewhite;
+    flex-direction: column;
+    /* display: flex; */
+    align-items: center;
+}
+/* li{
+    list-style: none;
+    flex-direction: column;
+    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.5);
+    align-items: center;
+    padding: 5px;
+}
+li:hover{ */
+    /* background-color: aqua;
+    color: bisque;
+} */
